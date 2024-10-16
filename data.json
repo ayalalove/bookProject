@@ -1,0 +1,14 @@
+
+{
+    "books": [
+        {
+            "catalogId": 82,
+            "Title": "ספירלה 2 נושא שורות - 1יח",
+            "Price": 9.9,
+            "Image": "./img/1.jpg",
+            "Action": "Read"
+        }
+    ]
+}
+
+
